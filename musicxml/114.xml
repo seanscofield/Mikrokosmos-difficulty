@@ -68,7 +68,7 @@
      <direction-type>
       <metronome relative-y="27" relative-x="-36">
        <beat-unit>quarter</beat-unit>
-       <per-minute>80</per-minute>
+       <per-minute>60</per-minute>
       </metronome>
      </direction-type>
    </direction>

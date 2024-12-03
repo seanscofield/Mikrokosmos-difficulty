@@ -81,7 +81,7 @@
    <direction placement="above">
     <direction-type>
      <metronome relative-y="30" relative-x="-67">
-      <beat-unit>quarter</beat-unit>
+      <beat-unit>half</beat-unit>
       <per-minute>112</per-minute>
      </metronome>
     </direction-type>
